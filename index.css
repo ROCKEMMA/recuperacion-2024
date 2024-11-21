@@ -10,7 +10,8 @@ h2 {
 }
 
 .container {
-    width: 500px;
+    width: 700px;
+    /* Aumentado el ancho para que quepan las nuevas columnas */
     margin: auto;
     margin-top: 20px;
     display: flex;
@@ -33,7 +34,8 @@ h2 {
 }
 
 .column {
-    width: 45%;
+    width: 18%;
+    /* Ajustado para que todas las columnas quepan */
     text-align: left;
 }
 
